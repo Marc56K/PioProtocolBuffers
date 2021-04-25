@@ -1,0 +1,17 @@
+{
+    "name": "PioProtocolBuffers",
+    "keywords": "protobuf",
+    "version": "3.15.8",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/Marc56K/PioProtocolBuffers.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Google Inc."
+      }
+    ],
+    "platforms": "espressif32"
+  }
